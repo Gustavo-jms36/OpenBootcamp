@@ -1,0 +1,15 @@
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\hora\bin\Debug\net7.0\hora.exe
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\hora\bin\Debug\net7.0\hora.deps.json
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\hora\bin\Debug\net7.0\hora.runtimeconfig.json
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\hora\bin\Debug\net7.0\hora.dll
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\hora\bin\Debug\net7.0\hora.pdb
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\hora\obj\Debug\net7.0\hora.csproj.AssemblyReference.cache
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\hora\obj\Debug\net7.0\hora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\hora\obj\Debug\net7.0\hora.AssemblyInfoInputs.cache
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\hora\obj\Debug\net7.0\hora.AssemblyInfo.cs
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\hora\obj\Debug\net7.0\hora.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\hora\obj\Debug\net7.0\hora.dll
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\hora\obj\Debug\net7.0\refint\hora.dll
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\hora\obj\Debug\net7.0\hora.pdb
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\hora\obj\Debug\net7.0\hora.genruntimeconfig.cache
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\hora\obj\Debug\net7.0\ref\hora.dll

@@ -1,0 +1,15 @@
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\nombre\bin\Debug\net7.0\nombre.exe
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\nombre\bin\Debug\net7.0\nombre.deps.json
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\nombre\bin\Debug\net7.0\nombre.runtimeconfig.json
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\nombre\bin\Debug\net7.0\nombre.dll
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\nombre\bin\Debug\net7.0\nombre.pdb
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\nombre\obj\Debug\net7.0\nombre.csproj.AssemblyReference.cache
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\nombre\obj\Debug\net7.0\nombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\nombre\obj\Debug\net7.0\nombre.AssemblyInfoInputs.cache
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\nombre\obj\Debug\net7.0\nombre.AssemblyInfo.cs
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\nombre\obj\Debug\net7.0\nombre.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\nombre\obj\Debug\net7.0\nombre.dll
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\nombre\obj\Debug\net7.0\refint\nombre.dll
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\nombre\obj\Debug\net7.0\nombre.pdb
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\nombre\obj\Debug\net7.0\nombre.genruntimeconfig.cache
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\nombre\obj\Debug\net7.0\ref\nombre.dll
