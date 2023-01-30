@@ -1,0 +1,15 @@
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\variables\bin\Debug\net7.0\variables.exe
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\variables\bin\Debug\net7.0\variables.deps.json
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\variables\bin\Debug\net7.0\variables.runtimeconfig.json
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\variables\bin\Debug\net7.0\variables.dll
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\variables\bin\Debug\net7.0\variables.pdb
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\variables\obj\Debug\net7.0\variables.csproj.AssemblyReference.cache
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\variables\obj\Debug\net7.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\variables\obj\Debug\net7.0\variables.AssemblyInfoInputs.cache
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\variables\obj\Debug\net7.0\variables.AssemblyInfo.cs
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\variables\obj\Debug\net7.0\variables.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\variables\obj\Debug\net7.0\variables.dll
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\variables\obj\Debug\net7.0\refint\variables.dll
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\variables\obj\Debug\net7.0\variables.pdb
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\variables\obj\Debug\net7.0\variables.genruntimeconfig.cache
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\variables\obj\Debug\net7.0\ref\variables.dll

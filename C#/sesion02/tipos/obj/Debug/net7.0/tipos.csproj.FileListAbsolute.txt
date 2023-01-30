@@ -1,0 +1,15 @@
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\tipos\bin\Debug\net7.0\tipos.exe
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\tipos\bin\Debug\net7.0\tipos.deps.json
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\tipos\bin\Debug\net7.0\tipos.runtimeconfig.json
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\tipos\bin\Debug\net7.0\tipos.dll
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\tipos\bin\Debug\net7.0\tipos.pdb
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\tipos\obj\Debug\net7.0\tipos.csproj.AssemblyReference.cache
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\tipos\obj\Debug\net7.0\tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\tipos\obj\Debug\net7.0\tipos.AssemblyInfoInputs.cache
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\tipos\obj\Debug\net7.0\tipos.AssemblyInfo.cs
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\tipos\obj\Debug\net7.0\tipos.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\tipos\obj\Debug\net7.0\tipos.dll
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\tipos\obj\Debug\net7.0\refint\tipos.dll
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\tipos\obj\Debug\net7.0\tipos.pdb
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\tipos\obj\Debug\net7.0\tipos.genruntimeconfig.cache
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\tipos\obj\Debug\net7.0\ref\tipos.dll

@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = hora
-build_property.ProjectDir = c:\Users\gusta\Documentos\OpenBootcamp\C#\sesion01\hora\
+build_property.RootNamespace = variables
+build_property.ProjectDir = c:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\variables\

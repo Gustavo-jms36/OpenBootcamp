@@ -1,0 +1,15 @@
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\operadores\bin\Debug\net7.0\operadores.exe
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\operadores\bin\Debug\net7.0\operadores.deps.json
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\operadores\bin\Debug\net7.0\operadores.runtimeconfig.json
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\operadores\bin\Debug\net7.0\operadores.dll
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\operadores\bin\Debug\net7.0\operadores.pdb
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\operadores\obj\Debug\net7.0\operadores.csproj.AssemblyReference.cache
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\operadores\obj\Debug\net7.0\operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\operadores\obj\Debug\net7.0\operadores.AssemblyInfoInputs.cache
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\operadores\obj\Debug\net7.0\operadores.AssemblyInfo.cs
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\operadores\obj\Debug\net7.0\operadores.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\operadores\obj\Debug\net7.0\operadores.dll
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\operadores\obj\Debug\net7.0\refint\operadores.dll
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\operadores\obj\Debug\net7.0\operadores.pdb
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\operadores\obj\Debug\net7.0\operadores.genruntimeconfig.cache
+C:\Users\gusta\Documentos\OpenBootcamp\C#\sesion02\operadores\obj\Debug\net7.0\ref\operadores.dll
